@@ -2,11 +2,11 @@
 name = 'AlexandrSharapov'
 print('Name:', name)
 
-#Переменная age = моему возрасту (строка).
+#Переменная age = моему возрасту.
 age=30
 print('Age:', age)
 
-#Обновленная переменная age = моему возрасту (строка).
+#Обновленная переменная age = моему возрасту.
 new_age=1
 age = new_age + age
 print('New age:', age)
